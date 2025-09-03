@@ -33,7 +33,7 @@ export default function EdgeFunctionsPage() {
         <p className="text-lg text-gray-400 mb-8">
           Suitable for real-time data processing and geolocation services, the advantage is global edge deployment and ultra-low latency response, suitable for lightweight API, real-time notifications, and content personalization.
         </p>
-        <a href="https://edgeone.ai/document/187317955530207232" target="_blank" rel="noopener noreferrer">
+        <a href="https://pages.edgeone.ai/document/edge-functions" target="_blank" rel="noopener noreferrer">
           <Button size="lg" variant="outline" className="hover:bg-gray-700 text-white px-8 py-3 text-lg cursor-pointer">
             View Documentation
           </Button>

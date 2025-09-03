@@ -36,7 +36,7 @@ export default function NodeFunctionsPage() {
           for API endpoints, database operations, and third-party service
           integrations.
         </p>
-        <a href="https://edgeone.ai/document/187318055541846016" target="_blank" rel="noopener noreferrer">
+        <a href="https://pages.edgeone.ai/document/node-functions" target="_blank" rel="noopener noreferrer">
           <Button
             size="lg"
             variant="outline"

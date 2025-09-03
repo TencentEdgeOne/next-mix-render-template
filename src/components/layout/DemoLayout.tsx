@@ -55,7 +55,7 @@ const DemoLayout = ({
         <p className="text-lg text-gray-400 mb-8">
           {description}
         </p>
-        <a href="https://edgeone.ai/document/187317656542044160" target="_blank" rel="noopener noreferrer">
+        <a href="https://pages.edgeone.ai/document/framework-nextjs" target="_blank" rel="noopener noreferrer">
           <Button size="lg" variant="outline" className="hover:bg-gray-700 text-white px-8 py-3 text-lg cursor-pointer">
             View Documentation
           </Button>
