@@ -14,6 +14,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en-US" className="dark">
+      <head>
+        <link rel="icon" href="/eo-logo-blue.svg" />
+      </head>
       <body className="bg-black text-white antialiased">
         <NextTopLoader 
           color="#3b82f6"
