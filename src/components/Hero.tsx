@@ -15,7 +15,7 @@ const Hero = () => {
             <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 text-lg cursor-pointer">
               <Zap className="w-5 h-5 mr-2" />
 
-              One-Click Deployment1113333
+              One-Click Deployment
             </Button>
           </a>
           <a href="https://pages.edgeone.ai/document/framework-nextjs" target="_blank" rel="noopener noreferrer">
